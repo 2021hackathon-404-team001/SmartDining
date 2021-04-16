@@ -2,11 +2,11 @@
 
 It is the prototype for enhancing our customer experience and maximizing restaurants' profit under the current pandemic situation and even beyond.
 
-# Usage
+## Usage
 
 Download this github package and run the index.html on your local machine.
 
-# Technical Specification
+## Technical Specification
 
 * Fontend framwork used: Bootstrap, JQuery, Fontawesome, Google APIs, CSS/JS developed by startbootstrap.com.
 * No backend code is developed, since this prototype is for demonstration purpose.
