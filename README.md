@@ -1,6 +1,6 @@
 # SmartDining
 
-It is the prototype for enhancing our customer experience and maximizing restaurants' profit under the current pandemic situation and even beyond.
+It is the prototype for enhancing customer experience and maximizing restaurants' profit under the current pandemic situation and even beyond.
 
 ## Usage
 
